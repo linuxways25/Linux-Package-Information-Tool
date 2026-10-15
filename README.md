@@ -230,5 +230,4 @@ GitHub: https://github.com/linuxways25
 Part of the LinuxWays ecosystem, focused on Linux, automation, platform engineering, and open-source tooling.
 
 ---
-
 LPIT — Inspect packages. Understand your system. Work smarter.
